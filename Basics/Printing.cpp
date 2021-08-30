@@ -1,6 +1,6 @@
-// The purpose of this is to demonstrate two different methods
-// of printing string information.
-
+/* The purpose of this is to demonstrate two different methods
+ * of printing string information.
+ */
 //~~~~~~~~~~~~~~~~~~~~~ Method 1 ~~~~~~~~~~~~~~~~~~~~~\\
 
 #include <iostream>  // The iostream library allows the program to display output to the screen and read info from the keyboard
