@@ -10,7 +10,7 @@ int main(){
     cout << "The size of char : "                   << sizeof(char) << "  bytes" << endl
          << "The size of float: "                   << sizeof(float) << "  bytes" << endl
          << "The size of double: "                  << sizeof(double) << "  bytes" << endl
-         << "The size of wchar_t: "                  << sizeof(wchar_t) << "  bytes" << endl
+         << "The size of wchar_t: "                 << sizeof(wchar_t) << "  bytes" << endl
          << "The size of int: "                     << sizeof(int) << "  bytes" << endl // has a range from -2,147,483,648 to 
                                                                                         //                  +2,147,483,647
          << "The size of short int: "               << sizeof(short int) << "  bytes" << endl // has a range from -32,768 to 
