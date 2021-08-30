@@ -1,4 +1,4 @@
-// The purpose of this program is to demonstrate two different methods
+// The purpose of this is to demonstrate two different methods
 // of printing string information.
 
 //~~~~~~~~~~~~~~~~~~~~~ Method 1 ~~~~~~~~~~~~~~~~~~~~~\\
