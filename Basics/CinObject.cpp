@@ -11,5 +11,5 @@ int main() {
     cin >> userInput; // the cin object allows us to read data from the keyboard, the data can then be stored in a variable
     cout << "The user typed the number: " << userInput << endl; // This statement displays the data from user userInput
 
-	return 0;		
+    return 0;		
 }
