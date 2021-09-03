@@ -12,6 +12,7 @@ int main() {
   cout << amount << endl; //sum from regular function
   amount = SUM(1,2,3); // goes to the overloaded function because its using three values instead of 2
   cout << amount << endl; //sum from overloaded regular function
+  return 0;
 }
 
 int sum(int one, int two){ //function takes two int variables
