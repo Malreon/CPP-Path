@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    int *y; // the asteriks symbol behind the variable name indicates its a pointer
+    int *y; // the asterisk symbol behind the variable name indicates its a pointer
     int* z; // this is an alternate method of creating a pointer variable
     int *ptr = nullptr; //initializes a pointer with nullptr
 
